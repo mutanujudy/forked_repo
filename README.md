@@ -83,3 +83,8 @@ Vague Prompt Example:
 Improved Prompt:
 "Explain the impact of artificial intelligence (AI) on healthcare, focusing on how AI is used to improve diagnostics and patient care."
 The improved prompt is more effective because it guides the AI towards generating a response that is relevant, detailed, and aligned with the user's specific needs. This not only saves time but also enhances the quality and usefulness of the AI’s output.
+
+
+
+
+<!-- want to see these changes after pushing this repo in github -->
